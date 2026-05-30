@@ -1,0 +1,39 @@
+.img_header {
+    width: 75px;
+    height: 35px;
+}
+
+header {
+    background-color: rgb(255, 0, 0);
+}
+
+body {
+    font-family: Verdana;
+    background-color: rgb(230, 230, 230);
+}
+
+.main_txt {
+    text-align: center;
+}
+
+.header_txt {
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+
+footer {
+    background-color: red;
+}
+
+.footer_txt {
+    color: white;
+}
+
+.footer_a {
+    color: white;
+    text-decoration: none;
+    border: 1px solid rgb(77, 76, 76);
+    background-color: gray;
+    padding: 2px;
+}
